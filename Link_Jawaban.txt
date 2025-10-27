@@ -1,0 +1,5 @@
+1. Simulasi website wokwi
+https://wokwi.com/projects/new/esp-idf-esp32
+
+2. Rekaman Gdrive
+https://drive.google.com/file/d/1noMM8lHS2uIArbKktMD3XXrLlI2X1j8j/view?usp=sharing
